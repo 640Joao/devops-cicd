@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Mostrar Mensagem
-        run: echo "Olá, MDC, GitHub Actions!
+        run: echo "Olá, MDC, GitHub Actions!"
